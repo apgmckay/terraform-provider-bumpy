@@ -25,7 +25,7 @@ func main() {
 		// Also update the tfplugindocs generate command to either remove the
 		// -provider-name flag or set its value to the updated provider name.
 
-		Address: "registry.terraform.io/bumpycorp/bumpy",
+		Address: "registry.terraform.io/apgmckay/bumpy",
 		Debug:   true,
 	}
 
